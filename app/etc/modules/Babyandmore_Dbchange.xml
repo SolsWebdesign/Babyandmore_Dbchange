@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Babyandmore_Dbchange>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Babyandmore_Dbchange>
+    </modules>

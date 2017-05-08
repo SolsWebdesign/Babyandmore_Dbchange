@@ -1,0 +1,14 @@
+{
+  "name": "babyandmore/dbchange",
+  "type": "magento-module",
+  "description": "Magento 1.x module to make a DB change. Create a new category attribute.",
+  "homepage":"https://github.com/hans2103/Babyandmore_Dbchange",
+  "license": "OSL-3.0",
+  "authors": [
+    {
+      "name": "Hans Kuijpers",
+      "email": "support@hkweb.nl"
+
+    }
+  ]
+}
