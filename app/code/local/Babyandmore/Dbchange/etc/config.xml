@@ -6,6 +6,13 @@
         </Babyandmore_Dbchange>
     </modules>
     <global>
+        <blocks>
+            <catalog>
+                <rewrite>
+                    <category_view>Babyandmore_Dbchange_Block_Category_View</category_view>
+                </rewrite>
+            </catalog>
+        </blocks>
         <resources>
             <babyandmore_dbchange_setup>
                 <setup>
